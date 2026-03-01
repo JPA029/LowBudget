@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"button_play","order":2,"path":"objects/button_play/button_play.yy",},
+    {"name":"oCamara","order":4,"path":"objects/oCamara/oCamara.yy",},
+    {"name":"oMuro_1","order":2,"path":"objects/oMuro_1/oMuro_1.yy",},
+    {"name":"oMuro","order":1,"path":"objects/oMuro/oMuro.yy",},
+    {"name":"Death_screen","order":1,"path":"rooms/Death_screen/Death_screen.yy",},
+    {"name":"StartScreen","order":3,"path":"rooms/StartScreen/StartScreen.yy",},
+    {"name":"WinRoom","order":5,"path":"rooms/WinRoom/WinRoom.yy",},
+    {"name":"sBackground","order":2,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"sMuro_1","order":3,"path":"sprites/sMuro_1/sMuro_1.yy",},
+    {"name":"sMuro","order":1,"path":"sprites/sMuro/sMuro.yy",},
+  ],
+}
